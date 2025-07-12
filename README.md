@@ -71,6 +71,8 @@ Client (React)
 - Premium AI-powered analytics
 - NFT integrations with reputation metadata
 
+<img width="1024" height="1536" alt="RoadMap" src="https://github.com/user-attachments/assets/3de47f90-4fa1-4217-9e45-a53c6b549447" />
+
 ---
 
 ## 🧠 Learn More
