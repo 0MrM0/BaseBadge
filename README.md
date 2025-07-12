@@ -4,6 +4,8 @@
 
 BaseBadge is a user-centric Web3 platform designed to empower users by providing visibility, control, and gamification over their on-chain identity. It transforms wallet activity into a dynamic reputation system that includes TrustScores, gamified badges, real-time alerts, and secure reputation NFTs.
 
+<img width="600" height="600" alt="BaseBadge++" src="https://github.com/user-attachments/assets/e8bd49ee-a07f-4774-be0c-a0c1c1163d0f" />
+
 ---
 
 ## 🚀 Key Features
